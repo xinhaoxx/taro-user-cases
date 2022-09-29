@@ -1430,6 +1430,13 @@ const userCases = {
       framework: "",
       taroVersion: "",
       screenshot: []
+    },
+    {
+      name: "邦邦智行",
+      url: "https://user-images.githubusercontent.com/18677889/192994599-a1509079-cec8-4ebc-81eb-6db25230e10d.jpg",
+      framework: "",
+      taroVersion: "",
+      screenshot: []
     }
   ],
   支付宝小程序: [
